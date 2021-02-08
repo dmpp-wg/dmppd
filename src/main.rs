@@ -1,3 +1,3 @@
-fn main() {
-    println!("Hello, distributed world!");
-}
+mod router;
+
+fn main() {}
